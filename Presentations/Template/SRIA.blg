@@ -23,47 +23,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: SRIA-blx.bib
 Database file #2: Documents/MyLiterature.bib
+Warning--I didn't find a database entry for "Com25a"
 Biblatex version: 3.20
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 2 entries,
+You've used 6 entries,
             6402 wiz_defined-function locations,
-            1218 strings with 9342 characters,
-and the built_in function-call counts, 6211 in all, are:
-= -- 366
-> -- 155
-< -- 34
-+ -- 143
-- -- 56
-* -- 353
-:= -- 808
+            1239 strings with 10245 characters,
+and the built_in function-call counts, 24244 in all, are:
+= -- 1448
+> -- 505
+< -- 178
++ -- 475
+- -- 164
+* -- 1602
+:= -- 2435
 add.period$ -- 0
-call.type$ -- 2
-change.case$ -- 12
+call.type$ -- 6
+change.case$ -- 60
 chr.to.int$ -- 44
-cite$ -- 2
-duplicate$ -- 546
-empty$ -- 570
-format.name$ -- 57
-if$ -- 1310
+cite$ -- 10
+duplicate$ -- 2625
+empty$ -- 2384
+format.name$ -- 296
+if$ -- 5138
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 16
 missing$ -- 0
-newline$ -- 42
-num.names$ -- 45
-pop$ -- 393
+newline$ -- 131
+num.names$ -- 237
+pop$ -- 1767
 preamble$ -- 1
-purify$ -- 14
+purify$ -- 70
 quote$ -- 0
-skip$ -- 241
+skip$ -- 912
 stack$ -- 0
-substring$ -- 611
-swap$ -- 130
-text.length$ -- 51
-text.prefix$ -- 3
+substring$ -- 2213
+swap$ -- 667
+text.length$ -- 187
+text.prefix$ -- 15
 top$ -- 1
-type$ -- 56
+type$ -- 192
 warning$ -- 0
-while$ -- 122
+while$ -- 339
 width$ -- 0
-write$ -- 41
+write$ -- 126
+(There was 1 warning)

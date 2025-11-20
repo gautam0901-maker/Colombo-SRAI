@@ -17,6 +17,53 @@
 \endgroup
 
 \datalist[entry]{anyt/global//global/global/global}
+  \entry{EuropeanCommissionPartnerships:2025}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=CE}{%
+         family={Commission},
+         familyi={C\bibinitperiod},
+         given={European},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CE1}
+    \strng{fullhash}{CE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Com25}
+    \field{extraalpha}{1}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+  \field{howpublished}{\url{https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/european-partnerships-horizon-europe_en}}
+    \field{note}{Accessed: 2025-11-20}
+    \field{title}{European Partnerships in Horizon Europe}
+    \field{year}{2025}
+  \endentry
+
+  \entry{EuropeanCommissionFunding:2025}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=CE}{%
+         family={Commission},
+         familyi={C\bibinitperiod},
+         given={European},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CE1}
+    \strng{fullhash}{CE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Com25}
+    \field{extraalpha}{2}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+  \field{howpublished}{\url{https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls_en}}
+    \field{note}{Accessed: 2025-11-20}
+    \field{title}{Funding programmes and open calls – Research and
+  innovation}
+    \field{year}{2025}
+  \endentry
+
   \entry{EuropeanCommission:2025}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=CE}{%
@@ -31,11 +78,54 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelalpha}{Com25}
+    \field{extraalpha}{3}
     \field{sortinit}{C}
     \field{sortinithash}{C}
   \field{howpublished}{\url{https://commission.europa.eu/topics-old/europes-budget/how-eus-long-term-budget-decided_en}}
     \field{note}{Accessed: 2025-11-20}
     \field{title}{How the EU’s long-term budget is decided}
+    \field{year}{2025}
+  \endentry
+
+  \entry{Europainfo_HorizonEurope:2020}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=e}{%
+         family={europainfo.at},
+         familyi={e\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{e1}
+    \strng{fullhash}{e1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{eur20}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+  \field{howpublished}{\url{https://europainfo.at/ausblick-das-programm-horizon-europe-2021-2027/}}
+    \field{note}{Accessed: 2025-11-20}
+    \field{title}{Ausblick: Das Programm „Horizon Europe 2021-2027“}
+    \field{year}{2020}
+  \endentry
+
+  \entry{EuropeanUnion:2025}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=UE}{%
+         family={Union},
+         familyi={U\bibinitperiod},
+         given={European},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UE1}
+    \strng{fullhash}{UE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Uni25}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+  \field{howpublished}{\url{https://european-union.europa.eu/institutions-law-budget/budget/how-eu-budget-adopted_en}}
+    \field{note}{Accessed: 2025-11-20}
+    \field{title}{How the EU budget is adopted}
     \field{year}{2025}
   \endentry
 \enddatalist
