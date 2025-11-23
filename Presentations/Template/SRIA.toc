@@ -1,4 +1,5 @@
 \babel@toc {german}{}\relax 
 \babel@toc {german}{}\relax 
 \beamer@sectionintoc {1}{European long-term budgeting}{3}{0}{1}
-\beamer@sectionintoc {2}{Literature}{18}{0}{2}
+\beamer@sectionintoc {2}{European Horizon Partnerships}{9}{0}{2}
+\beamer@sectionintoc {3}{Literature}{42}{0}{3}

@@ -18,12 +18,39 @@
 
 \documentclass[10pt, a4paper]{beamer}
 
+\usetheme{Madrid}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows, positioning}
+
+% ---- TikZ styles (renamed to avoid 'step') ----
+\tikzset{
+	flowbox/.style={
+		rectangle, rounded corners,
+		draw=blue!70, fill=blue!10,
+		minimum width=4cm, minimum height=0.9cm,
+		font=\small
+	},
+	crit/.style={
+		circle, draw=green!60, fill=green!10,
+		minimum width=2.2cm, minimum height=2.2cm,
+		font=\small\bfseries, align=center
+	},
+	studentflow/.style={
+		rectangle, rounded corners,
+		draw=purple!70, fill=purple!10,
+		minimum width=4cm, minimum height=0.9cm,
+		font=\small
+	}
+}
+
+
 %Metadaten
 \title{Strategic Research and Innovation Agenda}
 
 \subtitle{EU Call for Project Proposals}
 %\institution{HS Emden/Leer - MSR-Labor}
-\author{Gautam, Malena Wilken 7022282}
+\author{Gautam Ramesh 7026787, Malena Wilken 7022282}
 %\date{\today}
 \date{\today}
 
