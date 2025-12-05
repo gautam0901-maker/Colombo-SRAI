@@ -87,6 +87,28 @@
     \field{year}{2025}
   \endentry
 
+  \entry{ERALearn:2025}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=EEL}{%
+         family={ERIC},
+         familyi={E\bibinitperiod},
+         given={ERA-LEARN},
+         giveni={E\bibinithyphendelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EEL1}
+    \strng{fullhash}{EEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{ERI25}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+  \field{howpublished}{\url{https://www.era-learn.eu/support-for-partnerships/cross-cutting-issues-and-additional-activities/strategy-and-foresight/what-is-a-sria}}
+    \field{note}{Accessed: 2025-11-20}
+    \field{title}{What is a SRIA?}
+    \field{year}{2025}
+  \endentry
+
   \entry{Europainfo_HorizonEurope:2020}{misc}{}{}
     \name{author}{1}{}{%
       {{hash=e}{%

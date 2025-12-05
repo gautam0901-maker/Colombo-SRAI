@@ -27,45 +27,45 @@ Warning--I didn't find a database entry for "Com25a"
 Biblatex version: 3.20
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 6 entries,
+You've used 7 entries,
             6402 wiz_defined-function locations,
-            1239 strings with 10245 characters,
-and the built_in function-call counts, 24244 in all, are:
-= -- 1448
-> -- 505
-< -- 178
-+ -- 475
-- -- 164
-* -- 1602
-:= -- 2435
+            1244 strings with 10440 characters,
+and the built_in function-call counts, 29559 in all, are:
+= -- 1814
+> -- 587
+< -- 211
++ -- 567
+- -- 190
+* -- 1996
+:= -- 2942
 add.period$ -- 0
-call.type$ -- 6
-change.case$ -- 60
+call.type$ -- 7
+change.case$ -- 72
 chr.to.int$ -- 44
-cite$ -- 10
-duplicate$ -- 2625
-empty$ -- 2384
-format.name$ -- 296
-if$ -- 5138
+cite$ -- 12
+duplicate$ -- 3160
+empty$ -- 2923
+format.name$ -- 353
+if$ -- 6267
 int.to.chr$ -- 0
-int.to.str$ -- 16
+int.to.str$ -- 18
 missing$ -- 0
-newline$ -- 131
-num.names$ -- 237
-pop$ -- 1767
+newline$ -- 153
+num.names$ -- 282
+pop$ -- 2113
 preamble$ -- 1
-purify$ -- 70
+purify$ -- 84
 quote$ -- 0
-skip$ -- 912
+skip$ -- 1074
 stack$ -- 0
-substring$ -- 2213
-swap$ -- 667
-text.length$ -- 187
-text.prefix$ -- 15
+substring$ -- 2887
+swap$ -- 796
+text.length$ -- 218
+text.prefix$ -- 18
 top$ -- 1
-type$ -- 192
+type$ -- 226
 warning$ -- 0
-while$ -- 339
+while$ -- 396
 width$ -- 0
-write$ -- 126
+write$ -- 147
 (There was 1 warning)
