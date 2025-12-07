@@ -1,10 +1,10 @@
 \babel@toc {german}{}\relax 
 \babel@toc {german}{}\relax 
 \beamer@sectionintoc {1}{European long-term budgeting}{3}{0}{1}
-\beamer@sectionintoc {2}{SRIA}{12}{0}{2}
-\beamer@sectionintoc {3}{\textbf {Why} the EU funds projects}{17}{0}{3}
-\beamer@sectionintoc {4}{\textbf {Who} checks the proposals}{20}{0}{4}
-\beamer@sectionintoc {5}{\textbf {How} the evaluation works}{23}{0}{5}
-\beamer@sectionintoc {6}{The three main criteria: \textbf {Excellence}, \textbf {Impact}, \textbf {Implementation}}{25}{0}{6}
+\beamer@sectionintoc {2}{\textbf {Why} the EU funds projects}{8}{0}{2}
+\beamer@sectionintoc {3}{\textbf {Who} checks the proposals}{15}{0}{3}
+\beamer@sectionintoc {4}{\textbf {How} the evaluation works}{18}{0}{4}
+\beamer@sectionintoc {5}{The three main criteria: \textbf {Excellence}, \textbf {Impact}, \textbf {Implementation}}{20}{0}{5}
+\beamer@sectionintoc {6}{SRIA}{29}{0}{6}
 \beamer@sectionintoc {7}{ A simple \textbf {smart traffic} example}{35}{0}{7}
 \beamer@sectionintoc {8}{\textbf {How students} can join such projects}{40}{0}{8}

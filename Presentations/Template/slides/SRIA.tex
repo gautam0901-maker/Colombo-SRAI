@@ -74,6 +74,26 @@
 	\end{itemize}
 	
 }
+
+\Mysection{\textbf{Why} the EU funds projects}
+%---------------------------- EU + MISSIONS ------------------------------
+\begin{frame}{EU Research and Missions}
+    \begin{columns}
+        \begin{column}{0.45\textwidth}
+            \centering
+            \includegraphics[width=\textwidth]{images/eu2.jpg}\\[4pt]
+            \small The \textbf{European Union} invests money in research and innovation.
+        \end{column}
+        \begin{column}{0.55\textwidth}
+            \centering
+            \includegraphics[width=\textwidth]{images/eu1.png}\\[4pt]
+            \small EU \textbf{missions} focus on big problems like climate, cancer,
+            oceans, cities and healthy soil.
+        \end{column}
+    \end{columns}
+\end{frame}
+
+
 \STANDARD{Long-term budget}
 {
 	\begin{itemize}
@@ -163,6 +183,171 @@
 	\end{itemize}
 }
 
+	%-------------------------- FROM CALL TO PROJECT -------------------------
+\begin{frame}{From Call to Project}
+    \begin{itemize}
+        \item The EU publishes a \textbf{call text} with a topic and rules.
+        \item A group of partners writes a \textbf{project proposal}.
+        \item They send the proposal on time through the online portal.
+        \item After the deadline, the proposal enters the \textbf{evaluation process}.
+        \item Only the best proposals become \textbf{funded projects}.
+    \end{itemize}
+\end{frame}
+
+
+
+\Mysection{\textbf{Who} checks the proposals}
+%--------------------------- WHO EVALUATES -------------------------------
+\begin{frame}{Who Evaluates the Proposal?}
+    \begin{itemize}
+        \item Proposals are checked by \textbf{independent experts}.
+        \item Experts come from \textbf{different countries} and backgrounds.
+        \item They are chosen for their \textbf{knowledge} in the topic.
+        \item They must follow \textbf{conflict of interest} rules
+        (they cannot judge their own project).
+        \item Each proposal is read by \textbf{several experts}, not only one person.
+    \end{itemize}
+\end{frame}
+
+%--------------------------- PIPELINE (TIKZ) -----------------------------
+\begin{frame}{Evaluation Pipeline}
+    \centering
+    \begin{tikzpicture}[node distance=1.0cm]
+        \node[flowbox] (call)      {Call for proposals};
+        \node[flowbox, below of=call] (submit)   {Proposal submitted};
+        \node[flowbox, below of=submit] (check)  {Basic checks};
+        \node[flowbox, below of=check] (review)  {Experts review};
+        \node[flowbox, below of=review] (panel)  {Panel ranks proposals};
+        \node[flowbox, below of=panel] (grant)   {Best ones get grant};
+        
+        \draw[->, thick] (call)   -- (submit);
+        \draw[->, thick] (submit) -- (check);
+        \draw[->, thick] (check)  -- (review);
+        \draw[->, thick] (review) -- (panel);
+        \draw[->, thick] (panel)  -- (grant);
+    \end{tikzpicture}
+    
+    \vspace{4pt}
+    \small Each step removes proposals that do not fit the rules or have low quality.
+\end{frame}
+
+\Mysection{\textbf{How} the evaluation works}
+%------------------------------ SCORING ----------------------------------
+\begin{frame}{Scoring System}
+    \begin{itemize}
+        \item Experts give scores from \textbf{0} (very poor) to \textbf{5} (excellent).
+        \item Scores are given for each \textbf{criterion}.
+        \item A proposal must reach a \textbf{minimum score} to stay in the game.
+        \item Later, experts meet and agree on a \textbf{common score}.
+        \item Then the EU creates a \textbf{ranked list} from the best to the worst.
+    \end{itemize}
+\end{frame}
+
+
+\Mysection{The three main criteria: \textbf{Excellence}, \textbf{Impact}, \textbf{Implementation}}
+%----------------------- THREE CRITERIA (TIKZ) ---------------------------
+\begin{frame}{Three Main Evaluation Criteria}
+    \centering
+    \begin{tikzpicture}[node distance=2.4cm]
+        \node[crit] (ex)  {Excellence};
+        \node[crit, right of=ex] (im) {Impact};
+        \node[crit, below of=ex, xshift=1.2cm] (impl) {Implementation};
+        
+        \draw[thick] (ex) -- (im);
+        \draw[thick] (im) -- (impl);
+        \draw[thick] (impl) -- (ex);
+    \end{tikzpicture}
+    
+    \vspace{4pt}
+    \small Every proposal is judged on these three \textbf{pillars}.
+\end{frame}
+
+%-------------------------- EXCELLENCE (IDEA) ----------------------------
+\begin{frame}{Excellence: The Idea}
+    \begin{itemize}
+        \item The proposal must start with a \textbf{simple and clear problem}.
+        \item It must explain what people \textbf{already know} about this problem.
+        \item It must show what is \textbf{missing} or what is not solved yet.
+        \item It should have \textbf{clear goals} that the team wants to reach.
+        \item The idea should follow a \textbf{logical plan} and make sense.
+    \end{itemize}
+\end{frame}
+
+%------------------------ EXCELLENCE (METHOD) ----------------------------
+\begin{frame}{Excellence: The Method}
+    \begin{itemize}
+        \item The proposal must show \textbf{how} the team will work.
+        \item It should list the \textbf{tools} and \textbf{techniques} they will use.
+        \item It must explain \textbf{why} these tools are the right choice.
+        \item It should say how they will \textbf{collect} and \textbf{study} data.
+        \item It must mention possible \textbf{problems} and how they will solve them.
+    \end{itemize}
+\end{frame}
+
+%------------------------------- IMPACT ----------------------------------
+\begin{frame}{Impact: The Change}
+    \begin{itemize}
+        \item Describes what will \textbf{change} if the project is successful.
+        \item Links the project to \textbf{EU missions} or strategies.
+        \item Explains who will \textbf{benefit} and how.
+        \item Gives simple \textbf{numbers} to measure success
+        (for example fewer accidents, less energy use).
+    \end{itemize}
+\end{frame}
+
+%---------------------------- IMPACT PLANS -------------------------------
+\begin{frame}{Impact Plans: Use and Communication}
+    \begin{itemize}
+        \item Shows how results will be \textbf{used} after the project
+        (for example product, service, policy).
+        \item Explains how results will be \textbf{shared}:
+        reports, websites, open events, training.
+        \item Talks about the \textbf{target groups}:
+        cities, companies, citizens, students.
+        \item Makes sure the project does not end in a \textbf{drawer}.
+    \end{itemize}
+\end{frame}
+
+	%---------------------------- IMPLEMENTATION -----------------------------
+\begin{frame}{Implementation: Work Plan}
+    \begin{itemize}
+        \item Breaks the project into \textbf{work packages}.
+        \item Each work package has tasks, a leader and a time period.
+        \item Shows a simple \textbf{timeline} (Gantt style).
+        \item Explains how partners will \textbf{manage} the project:
+        meetings, reports, risk checks.
+    \end{itemize}
+\end{frame}
+
+%---------------------------- IMPLEMENTATION 2 ---------------------------
+\begin{frame}{Implementation: The Team}
+    \begin{itemize}
+        \item A good consortium mixes:
+        \begin{itemize}
+            \item \textbf{Universities} (knowledge)
+            \item \textbf{Companies} (market and products)
+            \item \textbf{Cities or users} (real-life testing)
+        \end{itemize}
+        \item Each partner has a \textbf{clear role}.
+        \item The coordinator has experience in \textbf{project management}.
+    \end{itemize}
+\end{frame}
+
+%------------------------------- TABLE -----------------------------------
+\begin{frame}{Short Overview of the Three Criteria}
+    \centering
+    \begin{tabular}{|p{3cm}|p{7cm}|}
+        \hline
+        \textbf{Excellence} &
+        Quality of the idea and method. Clear problem and clear objectives. \\ \hline
+        \textbf{Impact} &
+        Useful change in society or the market. Strong link to EU goals. \\ \hline
+        \textbf{Implementation} &
+        Realistic work plan, good team and management. \\ \hline
+    \end{tabular}
+\end{frame}
+
+
 \Mysection{SRIA}
 
 \STANDARD{What is a SRIA?}
@@ -216,192 +401,6 @@
 
 
 
-
-
-
-
-	
-
-
-\Mysection{\textbf{Why} the EU funds projects}
-	%---------------------------- EU + MISSIONS ------------------------------
-	\begin{frame}{EU Research and Missions}
-		\begin{columns}
-			\begin{column}{0.45\textwidth}
-				\centering
-				\includegraphics[width=\textwidth]{images/eu2.jpg}\\[4pt]
-				\small The \textbf{European Union} invests money in research and innovation.
-			\end{column}
-			\begin{column}{0.55\textwidth}
-				\centering
-				\includegraphics[width=\textwidth]{images/eu1.png}\\[4pt]
-				\small EU \textbf{missions} focus on big problems like climate, cancer,
-				oceans, cities and healthy soil.
-			\end{column}
-		\end{columns}
-	\end{frame}
-	
-	%-------------------------- FROM CALL TO PROJECT -------------------------
-	\begin{frame}{From Call to Project}
-		\begin{itemize}
-			\item The EU publishes a \textbf{call text} with a topic and rules.
-			\item A group of partners writes a \textbf{project proposal}.
-			\item They send the proposal on time through the online portal.
-			\item After the deadline, the proposal enters the \textbf{evaluation process}.
-			\item Only the best proposals become \textbf{funded projects}.
-		\end{itemize}
-	\end{frame}
-	
-\Mysection{\textbf{Who} checks the proposals}
-	%--------------------------- WHO EVALUATES -------------------------------
-	\begin{frame}{Who Evaluates the Proposal?}
-		\begin{itemize}
-			\item Proposals are checked by \textbf{independent experts}.
-			\item Experts come from \textbf{different countries} and backgrounds.
-			\item They are chosen for their \textbf{knowledge} in the topic.
-			\item They must follow \textbf{conflict of interest} rules
-			(they cannot judge their own project).
-			\item Each proposal is read by \textbf{several experts}, not only one person.
-		\end{itemize}
-	\end{frame}
-	
-	%--------------------------- PIPELINE (TIKZ) -----------------------------
-	\begin{frame}{Evaluation Pipeline}
-		\centering
-		\begin{tikzpicture}[node distance=1.0cm]
-			\node[flowbox] (call)      {Call for proposals};
-			\node[flowbox, below of=call] (submit)   {Proposal submitted};
-			\node[flowbox, below of=submit] (check)  {Basic checks};
-			\node[flowbox, below of=check] (review)  {Experts review};
-			\node[flowbox, below of=review] (panel)  {Panel ranks proposals};
-			\node[flowbox, below of=panel] (grant)   {Best ones get grant};
-			
-			\draw[->, thick] (call)   -- (submit);
-			\draw[->, thick] (submit) -- (check);
-			\draw[->, thick] (check)  -- (review);
-			\draw[->, thick] (review) -- (panel);
-			\draw[->, thick] (panel)  -- (grant);
-		\end{tikzpicture}
-		
-		\vspace{4pt}
-		\small Each step removes proposals that do not fit the rules or have low quality.
-	\end{frame}
-
-\Mysection{\textbf{How} the evaluation works}
-	%------------------------------ SCORING ----------------------------------
-	\begin{frame}{Scoring System}
-		\begin{itemize}
-			\item Experts give scores from \textbf{0} (very poor) to \textbf{5} (excellent).
-			\item Scores are given for each \textbf{criterion}.
-			\item A proposal must reach a \textbf{minimum score} to stay in the game.
-			\item Later, experts meet and agree on a \textbf{common score}.
-			\item Then the EU creates a \textbf{ranked list} from the best to the worst.
-		\end{itemize}
-	\end{frame}
-
-
-\Mysection{The three main criteria: \textbf{Excellence}, \textbf{Impact}, \textbf{Implementation}}
-	%----------------------- THREE CRITERIA (TIKZ) ---------------------------
-	\begin{frame}{Three Main Evaluation Criteria}
-		\centering
-		\begin{tikzpicture}[node distance=2.4cm]
-			\node[crit] (ex)  {Excellence};
-			\node[crit, right of=ex] (im) {Impact};
-			\node[crit, below of=ex, xshift=1.2cm] (impl) {Implementation};
-			
-			\draw[thick] (ex) -- (im);
-			\draw[thick] (im) -- (impl);
-			\draw[thick] (impl) -- (ex);
-		\end{tikzpicture}
-		
-		\vspace{4pt}
-		\small Every proposal is judged on these three \textbf{pillars}.
-	\end{frame}
-	
-	%-------------------------- EXCELLENCE (IDEA) ----------------------------
-	\begin{frame}{Excellence: The Idea}
-		\begin{itemize}
-			\item The proposal must start with a \textbf{simple and clear problem}.
-			\item It must explain what people \textbf{already know} about this problem.
-			\item It must show what is \textbf{missing} or what is not solved yet.
-			\item It should have \textbf{clear goals} that the team wants to reach.
-			\item The idea should follow a \textbf{logical plan} and make sense.
-		\end{itemize}
-	\end{frame}
-	
-	%------------------------ EXCELLENCE (METHOD) ----------------------------
-	\begin{frame}{Excellence: The Method}
-		\begin{itemize}
-			\item The proposal must show \textbf{how} the team will work.
-			\item It should list the \textbf{tools} and \textbf{techniques} they will use.
-			\item It must explain \textbf{why} these tools are the right choice.
-			\item It should say how they will \textbf{collect} and \textbf{study} data.
-			\item It must mention possible \textbf{problems} and how they will solve them.
-		\end{itemize}
-	\end{frame}
-	
-	%------------------------------- IMPACT ----------------------------------
-	\begin{frame}{Impact: The Change}
-		\begin{itemize}
-			\item Describes what will \textbf{change} if the project is successful.
-			\item Links the project to \textbf{EU missions} or strategies.
-			\item Explains who will \textbf{benefit} and how.
-			\item Gives simple \textbf{numbers} to measure success
-			(for example fewer accidents, less energy use).
-		\end{itemize}
-	\end{frame}
-	
-	%---------------------------- IMPACT PLANS -------------------------------
-	\begin{frame}{Impact Plans: Use and Communication}
-		\begin{itemize}
-			\item Shows how results will be \textbf{used} after the project
-			(for example product, service, policy).
-			\item Explains how results will be \textbf{shared}:
-			reports, websites, open events, training.
-			\item Talks about the \textbf{target groups}:
-			cities, companies, citizens, students.
-			\item Makes sure the project does not end in a \textbf{drawer}.
-		\end{itemize}
-	\end{frame}
-	
-	%---------------------------- IMPLEMENTATION -----------------------------
-	\begin{frame}{Implementation: Work Plan}
-		\begin{itemize}
-			\item Breaks the project into \textbf{work packages}.
-			\item Each work package has tasks, a leader and a time period.
-			\item Shows a simple \textbf{timeline} (Gantt style).
-			\item Explains how partners will \textbf{manage} the project:
-			meetings, reports, risk checks.
-		\end{itemize}
-	\end{frame}
-	
-	%---------------------------- IMPLEMENTATION 2 ---------------------------
-	\begin{frame}{Implementation: The Team}
-		\begin{itemize}
-			\item A good consortium mixes:
-			\begin{itemize}
-				\item \textbf{Universities} (knowledge)
-				\item \textbf{Companies} (market and products)
-				\item \textbf{Cities or users} (real-life testing)
-			\end{itemize}
-			\item Each partner has a \textbf{clear role}.
-			\item The coordinator has experience in \textbf{project management}.
-		\end{itemize}
-	\end{frame}
-	
-	%------------------------------- TABLE -----------------------------------
-	\begin{frame}{Short Overview of the Three Criteria}
-		\centering
-		\begin{tabular}{|p{3cm}|p{7cm}|}
-			\hline
-			\textbf{Excellence} &
-			Quality of the idea and method. Clear problem and clear objectives. \\ \hline
-			\textbf{Impact} &
-			Useful change in society or the market. Strong link to EU goals. \\ \hline
-			\textbf{Implementation} &
-			Realistic work plan, good team and management. \\ \hline
-		\end{tabular}
-	\end{frame}
 	
 	%-------------------------- SMART TRAFFIC IMAGE -------------------------
 	\begin{frame}{Example Project: Smart Traffic}
