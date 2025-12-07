@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  5 DEC 2025 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  5 DEC 2025 14:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -901,9 +901,9 @@ Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))
 \verbatim@out=\write5
-runsystem(touch w18-test-2025125633.tex)...disabled (restricted).
+runsystem(touch w18-test-2025125850.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2025125633.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2025125850.tex)...disabled (restricted).
 
 runsystem(rm -f "SRIA.gnuploterrors")...disabled (restricted).
 
@@ -1958,12 +1958,12 @@ Overfull \hbox (1.09102pt too wide) in paragraph at lines 224--224
 [][]  
  []
 
-<images/eu2.jpg, id=526, 1027.84pt x 684.5575pt>
+<images/eu2.jpg, id=527, 1027.84pt x 684.5575pt>
 File: images/eu2.jpg Graphic file (type jpg)
 <use images/eu2.jpg>
 Package pdftex.def Info: images/eu2.jpg  used on input line 224.
 (pdftex.def)             Requested size: 154.88684pt x 103.14923pt.
-<images/eu1.png, id=527, 770.88pt x 410.53375pt>
+<images/eu1.png, id=528, 770.88pt x 410.53375pt>
 File: images/eu1.png Graphic file (type png)
 <use images/eu1.png>
 Package pdftex.def Info: images/eu1.png  used on input line 224.
@@ -2400,7 +2400,7 @@ Overfull \hbox (1.09102pt too wide) in paragraph at lines 404--404
 [][]  
  []
 
-<images/eu3.jpg, id=934, 289.08pt x 231.264pt>
+<images/eu3.jpg, id=933, 289.08pt x 231.264pt>
 File: images/eu3.jpg Graphic file (type jpg)
 <use images/eu3.jpg>
 Package pdftex.def Info: images/eu3.jpg  used on input line 404.
@@ -2540,7 +2540,7 @@ Overfull \hbox (1.09102pt too wide) in paragraph at lines 457--457
 [][]  
  []
 
-<images/eu4.jpg, id=1061, 1541.76pt x 980.66376pt>
+<images/eu4.jpg, id=1060, 1541.76pt x 980.66376pt>
 File: images/eu4.jpg Graphic file (type jpg)
 <use images/eu4.jpg>
 Package pdftex.def Info: images/eu4.jpg  used on input line 457.
@@ -2840,29 +2840,26 @@ Package logreq Info: Writing requests to 'SRIA.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39406 strings out of 473207
- 810197 string characters out of 5720461
+ 39403 strings out of 473207
+ 810167 string characters out of 5720461
  1433930 words of memory out of 5000000
- 61795 multiletter control sequences out of 15000+600000
+ 61793 multiletter control sequences out of 15000+600000
  566496 words of font info for 63 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  128i,21n,123p,1874b,2268s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2024/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2024/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmssbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmssi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb>
 
-pdfTeX warning (dest): name{Navigation48} has been referenced but does not exis
-t, replaced by a fixed one
-
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texli
-ve/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2024/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2024/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2024/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmssbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmssi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-t10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb>
-Output written on SRIA.pdf (47 pages, 1144942 bytes).
+Output written on SRIA.pdf (47 pages, 1144944 bytes).
 PDF statistics:
- 1415 PDF objects out of 1440 (max. 8388607)
- 1297 compressed objects within 13 object streams
- 111 named destinations out of 1000 (max. 500000)
+ 1414 PDF objects out of 1440 (max. 8388607)
+ 1296 compressed objects within 13 object streams
+ 110 named destinations out of 1000 (max. 500000)
  261 words of extra memory for PDF output out of 10000 (max. 10000000)
 
