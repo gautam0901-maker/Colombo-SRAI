@@ -7,40 +7,40 @@
 \headcommand {\sectionentry {1}{European long-term budgeting}{3}{European long-term budgeting}{0}}
 \headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\slideentry {1}{0}{2}{4/4}{}{0}}
+\headcommand {\beamer@sectionpages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\sectionentry {2}{\textbf {Why} the EU funds projects}{4}{\textbf {Why} the EU funds projects}{0}}
+\headcommand {\slideentry {2}{0}{1}{4/4}{}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@sectionpages {3}{4}}
-\headcommand {\beamer@subsectionpages {3}{4}}
-\headcommand {\sectionentry {2}{\textbf {Why} the EU funds projects}{5}{\textbf {Why} the EU funds projects}{0}}
-\headcommand {\slideentry {2}{0}{1}{5/5}{}{0}}
+\headcommand {\slideentry {2}{0}{2}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\slideentry {2}{0}{2}{6/6}{}{0}}
+\headcommand {\slideentry {2}{0}{3}{6/6}{}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {2}{0}{3}{7/7}{}{0}}
-\headcommand {\beamer@framepages {7}{7}}
-\headcommand {\slideentry {2}{0}{3}{7/8}{}{0}}
-\headcommand {\beamer@framepages {7}{8}}
-\headcommand {\slideentry {2}{0}{3}{7/9}{}{0}}
-\headcommand {\beamer@framepages {7}{9}}
-\headcommand {\slideentry {2}{0}{4}{10/10}{}{0}}
+\headcommand {\slideentry {2}{0}{3}{6/7}{}{0}}
+\headcommand {\beamer@framepages {6}{7}}
+\headcommand {\slideentry {2}{0}{3}{6/8}{}{0}}
+\headcommand {\beamer@framepages {6}{8}}
+\headcommand {\slideentry {2}{0}{4}{9/9}{}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{0}{5}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {2}{0}{5}{11/11}{}{0}}
+\headcommand {\slideentry {2}{0}{6}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {2}{0}{6}{12/12}{}{0}}
+\headcommand {\slideentry {2}{0}{7}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {2}{0}{7}{13/13}{}{0}}
+\headcommand {\beamer@sectionpages {4}{12}}
+\headcommand {\beamer@subsectionpages {4}{12}}
+\headcommand {\sectionentry {3}{\textbf {Who} checks the proposals}{13}{\textbf {Who} checks the proposals}{0}}
+\headcommand {\slideentry {3}{0}{1}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@sectionpages {5}{13}}
-\headcommand {\beamer@subsectionpages {5}{13}}
-\headcommand {\sectionentry {3}{\textbf {Who} checks the proposals}{14}{\textbf {Who} checks the proposals}{0}}
-\headcommand {\slideentry {3}{0}{1}{14/14}{}{0}}
+\headcommand {\slideentry {3}{0}{2}{14/14}{}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {3}{0}{2}{15/15}{}{0}}
+\headcommand {\slideentry {3}{0}{3}{15/15}{}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {3}{0}{3}{16/16}{}{0}}
+\headcommand {\slideentry {3}{0}{4}{16/16}{}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@sectionpages {14}{16}}
-\headcommand {\beamer@subsectionpages {14}{16}}
+\headcommand {\beamer@sectionpages {13}{16}}
+\headcommand {\beamer@subsectionpages {13}{16}}
 \headcommand {\sectionentry {4}{\textbf {How} the evaluation works}{17}{\textbf {How} the evaluation works}{0}}
 \headcommand {\slideentry {4}{0}{1}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
@@ -76,47 +76,43 @@
 \headcommand {\beamer@framepages {29}{29}}
 \headcommand {\slideentry {6}{0}{3}{30/30}{}{0}}
 \headcommand {\beamer@framepages {30}{30}}
-\headcommand {\slideentry {6}{0}{4}{31/31}{}{0}}
+\headcommand {\beamer@sectionpages {28}{30}}
+\headcommand {\beamer@subsectionpages {28}{30}}
+\headcommand {\sectionentry {7}{ A simple \textbf {smart traffic} example}{31}{ A simple \textbf {smart traffic} example}{0}}
+\headcommand {\slideentry {7}{0}{1}{31/31}{}{0}}
 \headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {6}{0}{5}{32/32}{}{0}}
+\headcommand {\slideentry {7}{0}{2}{32/32}{}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\beamer@sectionpages {28}{32}}
-\headcommand {\beamer@subsectionpages {28}{32}}
-\headcommand {\sectionentry {7}{ A simple \textbf {smart traffic} example}{33}{ A simple \textbf {smart traffic} example}{0}}
-\headcommand {\slideentry {7}{0}{1}{33/33}{}{0}}
+\headcommand {\slideentry {7}{0}{3}{33/33}{}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {7}{0}{2}{34/34}{}{0}}
+\headcommand {\slideentry {7}{0}{4}{34/34}{}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {7}{0}{3}{35/35}{}{0}}
+\headcommand {\slideentry {7}{0}{5}{35/35}{}{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {7}{0}{4}{36/36}{}{0}}
+\headcommand {\beamer@sectionpages {31}{35}}
+\headcommand {\beamer@subsectionpages {31}{35}}
+\headcommand {\sectionentry {8}{\textbf {How students} can join such projects}{36}{\textbf {How students} can join such projects}{0}}
+\headcommand {\slideentry {8}{0}{1}{36/36}{}{0}}
 \headcommand {\beamer@framepages {36}{36}}
-\headcommand {\slideentry {7}{0}{5}{37/37}{}{0}}
+\headcommand {\slideentry {8}{0}{2}{37/37}{}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\beamer@sectionpages {33}{37}}
-\headcommand {\beamer@subsectionpages {33}{37}}
-\headcommand {\sectionentry {8}{\textbf {How students} can join such projects}{38}{\textbf {How students} can join such projects}{0}}
-\headcommand {\slideentry {8}{0}{1}{38/38}{}{0}}
+\headcommand {\slideentry {8}{0}{3}{38/38}{}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\slideentry {8}{0}{2}{39/39}{}{0}}
+\headcommand {\slideentry {8}{0}{4}{39/39}{}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {8}{0}{3}{40/40}{}{0}}
+\headcommand {\slideentry {8}{0}{5}{40/40}{}{0}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\slideentry {8}{0}{4}{41/41}{}{0}}
+\headcommand {\slideentry {8}{0}{6}{41/41}{}{0}}
 \headcommand {\beamer@framepages {41}{41}}
-\headcommand {\slideentry {8}{0}{5}{42/42}{}{0}}
+\headcommand {\beamer@sectionpages {36}{41}}
+\headcommand {\beamer@subsectionpages {36}{41}}
+\headcommand {\sectionentry {9}{Literatur}{42}{Literatur}{0}}
+\headcommand {\slideentry {9}{0}{0}{42/42}{}{0}}
 \headcommand {\beamer@framepages {42}{42}}
-\headcommand {\slideentry {8}{0}{6}{43/43}{}{0}}
-\headcommand {\beamer@framepages {43}{43}}
-\headcommand {\beamer@sectionpages {38}{43}}
-\headcommand {\beamer@subsectionpages {38}{43}}
-\headcommand {\sectionentry {9}{Literatur}{44}{Literatur}{0}}
-\headcommand {\slideentry {9}{0}{0}{44/44}{}{0}}
-\headcommand {\beamer@framepages {44}{44}}
-\headcommand {\slideentry {9}{0}{0}{44/45}{}{0}}
-\headcommand {\beamer@framepages {44}{45}}
-\headcommand {\beamer@partpages {1}{45}}
-\headcommand {\beamer@subsectionpages {38}{45}}
-\headcommand {\beamer@sectionpages {38}{45}}
-\headcommand {\beamer@documentpages {45}}
-\headcommand {\gdef \inserttotalframenumber {45}}
+\headcommand {\slideentry {9}{0}{0}{42/43}{}{0}}
+\headcommand {\beamer@framepages {42}{43}}
+\headcommand {\beamer@partpages {1}{43}}
+\headcommand {\beamer@subsectionpages {36}{43}}
+\headcommand {\beamer@sectionpages {36}{43}}
+\headcommand {\beamer@documentpages {43}}
+\headcommand {\gdef \inserttotalframenumber {43}}
